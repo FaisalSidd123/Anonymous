@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Anonymous Message",
+    "content": "This is the content of the first anonymous message",
+    "received": "2024-01-15T10:30:00Z"
+  },
+  {
+    "title": "Secret Confession",
+    "content": "Here's another anonymous message for the carousel",
+    "received": "2024-01-16T14:20:00Z"
+  },
+  {
+    "title": "Mystery Note",
+    "content": "A third message to display in the carousel",
+    "received": "2024-01-17T09:45:00Z"
+  }
+]
