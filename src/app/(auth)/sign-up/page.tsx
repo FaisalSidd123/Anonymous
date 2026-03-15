@@ -99,7 +99,7 @@ const Page = () => {
               <UserPlus className="w-6 h-6 text-white" />
             </div>
             <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight mb-3">
-              Join <span className="text-gradient">Mystery Message</span>
+              Join <span className="text-gradient">Anonymous</span>
             </h1>
             <p className="text-muted-foreground font-medium">
               Sign up to start your anonymous adventure

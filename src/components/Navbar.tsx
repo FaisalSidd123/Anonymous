@@ -22,9 +22,9 @@ const Navbar = () => {
             <div className='container mx-auto px-6 h-16 flex justify-between items-center'>
                 <Link href="/" className='flex items-center gap-2 group'>
                     <div className='w-8 h-8 rounded-lg bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center shadow-lg group-hover:shadow-indigo-500/50 transition-all'>
-                        <span className='text-white font-bold text-lg'>M</span>
+                        <span className='text-white font-bold text-lg'>A</span>
                     </div>
-                    <span className='hidden sm:block text-xl font-bold tracking-tight'>Mstr<span className='text-indigo-500 dark:text-indigo-400'>Msg</span></span>
+                    <span className='hidden sm:block text-xl font-bold tracking-tight'>Anonymo<span className='text-indigo-500 dark:text-indigo-400'>us</span></span>
                 </Link>
 
                 <div className='flex items-center gap-4'>
